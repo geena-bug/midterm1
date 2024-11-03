@@ -1,0 +1,42 @@
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\Documents\New folder\Lists\Lists\Lists\bin\Debug\net7.0\Lists.exe
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\Documents\New folder\Lists\Lists\Lists\bin\Debug\net7.0\Lists.deps.json
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\Documents\New folder\Lists\Lists\Lists\bin\Debug\net7.0\Lists.runtimeconfig.json
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\Documents\New folder\Lists\Lists\Lists\bin\Debug\net7.0\Lists.dll
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\Documents\New folder\Lists\Lists\Lists\bin\Debug\net7.0\Lists.pdb
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\Documents\New folder\Lists\Lists\Lists\obj\Debug\net7.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\Documents\New folder\Lists\Lists\Lists\obj\Debug\net7.0\Lists.AssemblyInfoInputs.cache
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\Documents\New folder\Lists\Lists\Lists\obj\Debug\net7.0\Lists.AssemblyInfo.cs
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\Documents\New folder\Lists\Lists\Lists\obj\Debug\net7.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\Documents\New folder\Lists\Lists\Lists\obj\Debug\net7.0\Lists.dll
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\Documents\New folder\Lists\Lists\Lists\obj\Debug\net7.0\refint\Lists.dll
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\Documents\New folder\Lists\Lists\Lists\obj\Debug\net7.0\Lists.pdb
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\Documents\New folder\Lists\Lists\Lists\obj\Debug\net7.0\Lists.genruntimeconfig.cache
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\Documents\New folder\Lists\Lists\Lists\obj\Debug\net7.0\ref\Lists.dll
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\bin\Debug\net7.0\Lists.exe
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\bin\Debug\net7.0\Lists.deps.json
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\bin\Debug\net7.0\Lists.runtimeconfig.json
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\bin\Debug\net7.0\Lists.dll
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\bin\Debug\net7.0\Lists.pdb
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\Lists.AssemblyInfoInputs.cache
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\Lists.AssemblyInfo.cs
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\Lists.dll
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\refint\Lists.dll
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\Lists.pdb
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\Lists.genruntimeconfig.cache
+C:\Users\ajunwaa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\ref\Lists.dll
+C:\Users\ada.ajunwa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\bin\Debug\net7.0\Lists.exe
+C:\Users\ada.ajunwa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\bin\Debug\net7.0\Lists.deps.json
+C:\Users\ada.ajunwa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\bin\Debug\net7.0\Lists.runtimeconfig.json
+C:\Users\ada.ajunwa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\bin\Debug\net7.0\Lists.dll
+C:\Users\ada.ajunwa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\bin\Debug\net7.0\Lists.pdb
+C:\Users\ada.ajunwa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ada.ajunwa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\Lists.AssemblyInfoInputs.cache
+C:\Users\ada.ajunwa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\Lists.AssemblyInfo.cs
+C:\Users\ada.ajunwa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\ada.ajunwa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\Lists.dll
+C:\Users\ada.ajunwa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\refint\Lists.dll
+C:\Users\ada.ajunwa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\Lists.pdb
+C:\Users\ada.ajunwa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\Lists.genruntimeconfig.cache
+C:\Users\ada.ajunwa\OneDrive - Saskatchewan Polytechnic\COSC286\Codes\Lists\Lists\Lists\obj\Debug\net7.0\ref\Lists.dll
